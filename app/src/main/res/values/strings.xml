@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="attack3">Ataque Total 3 Dados</string>
+    <string name="defence3">Defesa Total 3 Dados</string>
+    <string name="attack2">Ataque Parcial 2 Dados</string>
+    <string name="defence2">Defesa Parcial 2 Dados</string>
+    <string name="attack1">Ataque único 1 Dado</string>
+    <string name="defence1">Defesa única 1 Dado</string>
+
+
+</resources>
